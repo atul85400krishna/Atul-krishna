@@ -10,9 +10,12 @@
 
 <p> <img height="20px" src="https://komarev.com/ghpvc/?username=atul85400krishna&label=Profile%20views&color=0e75b6&style=flat" alt="atul85400krishna" /> </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-<h3>An enthusiastic, self-motivated and passionate front-end
-and backend web developer with a specialization in MERN stack. Problem solving mindset and
-the ability to perform well in collaboration.</h3>
+<h3>A position of Full Stack Developer, so
+where I can put my experience in
+developing software for the web to
+good use. I am looking for a position
+where I can continue utilizing my
+skills and experience.</h3>
 
 - 👨‍💻 Checkout my [Portfolio](https://atul85400krishna.github.io/)
 - 📋 Checkout my [Resume](https://drive.google.com/file/d/1_01QHag0QRtdBG-HfJdsx0dKQdVIXljx/view?usp=sharing)
