@@ -3,7 +3,7 @@
 </div> -->
 
 <br/>
- ### Hi there, I'm Atul Krishna 👋  
+ <h1>### Hi there, I'm Atul Krishna 👋 </h1> 
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="231">
 
   <a href="https://github.com/atul85400krishna/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&left=true&width=400&height=50"></a>
