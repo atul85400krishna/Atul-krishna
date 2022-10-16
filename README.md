@@ -18,7 +18,7 @@ where I can continue utilizing my
 skills and experience.</h3>
 
 - 👨‍💻 Checkout my [Portfolio](https://atul85400krishna.github.io/)
-- 📋 Checkout my [Resume](https://drive.google.com/file/d/1_01QHag0QRtdBG-HfJdsx0dKQdVIXljx/view?usp=sharing)
+- 📋 Checkout my [Resume](https://drive.google.com/file/d/1GbvdNI3AJsaBD8I8T15xZkL5G-calvg7/view?usp=sharing)
 - 📧 How to reach me, [email](mailto:atul85400krishna@gmail.com) :)
 
 <h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
