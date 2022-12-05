@@ -78,9 +78,9 @@ skills and experience.</h3>
 
 
 
-| 📊 Top Languages | 📈 Contribution Graph  |
+<!-- | 📊 Top Languages | 📈 Contribution Graph  |
 | :--- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atul85400krishna&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/atul85400krishna/github-readme-stats)| <img align="right" src="https://activity-graph.herokuapp.com/graph?username=atul85400krishna&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atul85400krishna&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/atul85400krishna/github-readme-stats)| <img align="right" src="https://activity-graph.herokuapp.com/graph?username=atul85400krishna&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> | -->
 
 
 
